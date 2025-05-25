@@ -218,7 +218,7 @@ This project is developed for Alephys technical assessment purposes.
 **Contact Information:**
 - Developer: Javvaji Jyoshna
 - Email: jyoshnajavvaji2004@gmail.com
-- GitHub: 
+- GitHub: https://github.com/jyo0004/AlephysExpenseTracker
 - LinkedIn: https://www.linkedin.com/in/javvaji-jyoshna-564343243/
 
 **Position:** Java Developer - Alephys
